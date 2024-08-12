@@ -5,9 +5,16 @@
 <h1 align="center">Hi 👋, I'm Vedant Shetti</h1>
 <h3 align="center">A passionate full stack (MERN) developer from India</h3>
 
-<p align="center">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <div>
+        - 🔭 I’m currently working on **FindAStay**<br>
+        - 🌱 I’m currently learning **about Myself**<br>
+        - 💬 Ask me about **MERN, DSA**<br>
+        - 📫 How to reach me **vedantshetti123456@gmail.com**<br>
+        - ⚡ Fun fact **I am Crazy**<br>
+    </div>
     <img align="right" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Coding">
-</p>
+</div>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=vedantshetti&label=Profile%20views&color=0e75b6&style=flat" alt="vedantshetti" />
@@ -18,12 +25,6 @@
         <img src="https://github-profile-trophy.vercel.app/?username=vedantshetti" alt="vedantshetti" />
     </a>
 </p>
-
-- 🔭 I’m currently working on **FindAStay**
-- 🌱 I’m currently learning **about Myself**
-- 💬 Ask me about **MERN, DSA**
-- 📫 How to reach me **vedantshetti123456@gmail.com**
-- ⚡ Fun fact **I am Crazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

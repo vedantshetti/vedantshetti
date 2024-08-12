@@ -5,16 +5,16 @@
 <h1 align="center">Hi 👋, I'm Vedant Shetti</h1>
 <h3 align="center">A passionate full stack (MERN) developer from India</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div>
-        - 🔭 I’m currently working on **FindAStay**<br><br><br><br>
-        - 🌱 I’m currently learning **about Myself**<br><br><br><br>
-        - 💬 Ask me about **MERN, DSA**<br><br><br><br>
-        - 📫 How to reach me **vedantshetti123456@gmail.com**<br><br><br><br>
-        - ⚡ Fun fact **I am Crazy**<br><br><br><br>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="flex: 1;">
+        - 🔭 I’m currently working on **FindAStay**<br><br>
+        - 🌱 I’m currently learning **about Myself**<br><br>
+        - 💬 Ask me about **MERN, DSA**<br><br>
+        - 📫 How to reach me **vedantshetti123456@gmail.com**<br><br>
+        - ⚡ Fun fact **I am Crazy**<br><br>
     </div>
-    <div>
-        <img align="right" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Coding">
+    <div style="flex: 1; display: flex; justify-content: center;">
+        <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Coding" style="max-width: 100%; height: auto;">
     </div>
 </div>
 

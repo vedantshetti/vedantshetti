@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Shetti</h1>
 <h3 align="center">A passionate full stack (MERN) developer from India</h3>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div>
         - 🔭 I’m currently working on **FindAStay**<br><br>
         - 🌱 I’m currently learning **about Myself**<br><br>
@@ -13,7 +13,9 @@
         - 📫 How to reach me **vedantshetti123456@gmail.com**<br><br>
         - ⚡ Fun fact **I am Crazy**<br><br>
     </div>
-    <img align="right" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Coding">
+    <div>
+        <img align="right" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Coding">
+    </div>
 </div>
 
 <p align="left">

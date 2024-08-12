@@ -7,11 +7,11 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div>
-        - 🔭 I’m currently working on **FindAStay**<br>
-        - 🌱 I’m currently learning **about Myself**<br>
-        - 💬 Ask me about **MERN, DSA**<br>
-        - 📫 How to reach me **vedantshetti123456@gmail.com**<br>
-        - ⚡ Fun fact **I am Crazy**<br>
+        - 🔭 I’m currently working on **FindAStay**<br><br>
+        - 🌱 I’m currently learning **about Myself**<br><br>
+        - 💬 Ask me about **MERN, DSA**<br><br>
+        - 📫 How to reach me **vedantshetti123456@gmail.com**<br><br>
+        - ⚡ Fun fact **I am Crazy**<br><br>
     </div>
     <img align="right" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Coding">
 </div>

@@ -83,3 +83,11 @@
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantshetti&" alt="Vedant's GitHub Streak" />
 </p>
+
+---
+
+### Fixing Contribution Visibility:
+- Ensure your **commits use the same email** registered with your GitHub account (`git config --global user.email`).
+- Enable **private contributions** in [GitHub settings](https://github.com/settings/profile#profile-settings).
+- Confirm **commits are pushed to the default branch** (`main` or `master`).
+- Push **local changes** to GitHub using `git push`.

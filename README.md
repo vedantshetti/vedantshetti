@@ -5,6 +5,15 @@
 <h1 align="center">Hi 👋, I'm Vedant Shetti</h1>
 <h3 align="center">A full stack (MERN) developer & Android Developer(Backend) from India </h3>
 
+<br>
+
+<div align="center">
+  <img align="" height="150" src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-13.gif" alt="Hello GIF"  />
+</div>
+
+
+<br>
+
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="flex: 1;">
         - 🔭 I’m currently working on **FindAStay**<br><br>

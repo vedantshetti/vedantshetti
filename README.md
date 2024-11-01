@@ -15,7 +15,7 @@
 
 <div align="center">
   <h3>Technologies I Work With</h3>
-  <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js logo" style="height: 50px; width: auto; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js logo" style="height: 50px; width: auto; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript logo" style="height: 50px; width: auto; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
@@ -45,10 +45,10 @@
 </p>
 
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=vedantshetti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22200%22%20alt=%22GitHub%20Stats" height="200" alt="GitHub Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantshetti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22200%22%20alt=%22GitHub%20Stats" height="200" alt="GitHub Stats" />
   <br>
   <br>
-  <img src="https://streak-stats.demolab.com/?user=vedantshetti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph"  />
+  <img src="https://streak-stats.demolab.com/?user=vedantshetti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" />
 </div>
 
 <div align="center">

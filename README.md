@@ -45,9 +45,10 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantshetti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="GitHub Stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=vedantshetti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22200%22%20alt=%22GitHub%20Stats" height="200" alt="GitHub Stats"  />
   <br>
-  <img src="https://streak-stats.demolab.com?user=vedantshetti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=vedantshetti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph"  />
 </div>
 
 <div align="center">
@@ -59,14 +60,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Logo" />
   </a>
 </div>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantshetti&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantshetti&show_icons=true&locale=en" alt="Vedant's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantshetti&" alt="Vedant's GitHub Streak" />
-</p>

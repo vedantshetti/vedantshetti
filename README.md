@@ -11,7 +11,7 @@
   <img
     src="https://i.pinimg.com/originals/a5/08/0d/a5080d051bc207b2b13200a1892b3c10.gif"
     alt="Hello GIF"
-    style="width: 100%; max-width: 400px; height: 161px;"
+    style="width: 100%; max-width: 500px; height: 161px;"
   />
 </div>
 

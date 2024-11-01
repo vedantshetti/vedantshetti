@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Vedant Shetti</h1>
-<h3 align="center">A passionate full stack (MERN) developer from India & Android Developer(Backend)</h3>
+<h3 align="center">A full stack (MERN) developer & Android Developer(Backend) from India </h3>
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="flex: 1;">

@@ -44,12 +44,7 @@
   </a>
 </p>
 
-//<div align="center">
-  //<img src="https://github-readme-stats.vercel.app/api?username=vedantshetti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="GitHub Stats" />
-  //<br>
-  //<br>
-  //<img src="https://streak-stats.demolab.com/?user=vedantshetti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak Stats" />
-//</div>
+
 
 
 <div align="center">
